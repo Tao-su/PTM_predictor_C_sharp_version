@@ -1,0 +1,7 @@
+C:\Kelleher_lab\Tao_project\005_PTM_predictor\PTM_predictor_c_sharp\PTM_predictor_c_sharp\bin\Debug\PTM_predictor_c_sharp.exe.config
+C:\Kelleher_lab\Tao_project\005_PTM_predictor\PTM_predictor_c_sharp\PTM_predictor_c_sharp\bin\Debug\PTM_predictor_c_sharp.exe
+C:\Kelleher_lab\Tao_project\005_PTM_predictor\PTM_predictor_c_sharp\PTM_predictor_c_sharp\bin\Debug\PTM_predictor_c_sharp.pdb
+C:\Kelleher_lab\Tao_project\005_PTM_predictor\PTM_predictor_c_sharp\PTM_predictor_c_sharp\obj\Debug\PTM_predictor_c_sharp.csprojAssemblyReference.cache
+C:\Kelleher_lab\Tao_project\005_PTM_predictor\PTM_predictor_c_sharp\PTM_predictor_c_sharp\obj\Debug\PTM_predictor_c_sharp.csproj.CoreCompileInputs.cache
+C:\Kelleher_lab\Tao_project\005_PTM_predictor\PTM_predictor_c_sharp\PTM_predictor_c_sharp\obj\Debug\PTM_predictor_c_sharp.exe
+C:\Kelleher_lab\Tao_project\005_PTM_predictor\PTM_predictor_c_sharp\PTM_predictor_c_sharp\obj\Debug\PTM_predictor_c_sharp.pdb
